@@ -1,0 +1,5 @@
+{
+    "extensions": [".php", ".js", ".py", ".json"],
+    "scan_folder": "scan",
+    "clone_folder": "clone"
+}
